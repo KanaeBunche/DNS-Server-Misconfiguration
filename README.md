@@ -10,7 +10,7 @@ This issue arises when the DNS server is misconfigured or unreachable, preventin
 
 <h4>1. Check the DNS Issue: Attempting to Ping Google Without DNS Resolution</h4>
 <p align="center">
-  <img src="https://example.com/screenshot-before-fix-ping.png" alt="DNS Resolution Error Before Fix - Pinging google.com"/>
+  <img src="https://s2.ezgif.com/tmp/ezgif-2-e3924cd854.gif" alt="DNS Resolution Error Before Fix - Pinging google.com"/>
   <br>
   <i>Before Fix: Attempting to ping google.com results in a DNS resolution error (e.g., "Ping request could not find host google.com").</i>
 </p>
