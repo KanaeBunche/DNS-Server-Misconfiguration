@@ -24,7 +24,6 @@ This issue arises when the DNS server is misconfigured or unreachable, preventin
 <p align="center">
   <img src="https://s2.ezgif.com/tmp/ezgif-2-ffad981040.gif" alt="Navigate to Azure VM"/>
   <br>
-  <i>In the Azure portal, go to the Networking section of your VM.</i>
 </p>
 
 <i>After the fix: Browser successfully loads Google without DNS issues.</i>
