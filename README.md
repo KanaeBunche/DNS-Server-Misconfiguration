@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://i.ibb.co/gR1bdDr/DNS-FIX.jpg" alt="osTicket logo" width="70%"/>
 </p>
-<h2>Issue 1: DNS Server Misconfiguration</h2>
+<h2 align="center">Issue 1: DNS Server Misconfiguration</h2>
 
 <h3>Issue Description:</h3>
 The VM cannot resolve domain names, leading to errors when attempting to access external websites (e.g., `ping google.com` fails).
