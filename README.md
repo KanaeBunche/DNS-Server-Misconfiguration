@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.ibb.co/gR1bdDr/DNS-FIX.jpg" alt="osTicket logo" width="100%"/>
+<img src="https://ibb.co/DRXPY71" alt="osTicket logo" width="100%"/>
 </p>
 <h2>Issue 1: DNS Server Misconfiguration</h2>
 
