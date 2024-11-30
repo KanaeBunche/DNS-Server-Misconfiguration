@@ -30,7 +30,7 @@ This issue arises when the DNS server is misconfigured or unreachable, preventin
   <li>Go to the <b>Networking</b> section and select the network interface associated with your VM.</li>
   <li>Check and configure the DNS servers:
     <ul>
-      <li>Set to Azure Default DNS: <code>168.63.129.16</code>, or a valid custom DNS server.</li>
+      <li>Set to Azure Default DNS.</li>
     </ul>
   </li>
   <li>Save the changes and restart the VM.</li>
