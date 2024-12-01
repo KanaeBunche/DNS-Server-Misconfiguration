@@ -12,9 +12,7 @@ This issue arises when the DNS server is misconfigured or unreachable, preventin
 <h3>Steps to Fix:</h3>
 
 <h4>Step 1: Identify the DNS Issue</h4>
-<p align="center">
-  <img src="https://s2.ezgif.com/tmp/ezgif-2-e3924cd854.gif" alt="DNS Resolution Error Before Fix - Pinging google.com"/>
-  <br>
+<iframe width="554" height="360" src="https://www.youtube.com/embed/tG33Rr1cSc4" title="DNS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
   <i>Before Fix: Attempting to ping google.com results in a DNS resolution error (e.g., "Ping request could not find host google.com").</i>
 </p>
 
