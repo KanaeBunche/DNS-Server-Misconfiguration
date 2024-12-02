@@ -1,5 +1,3 @@
-# Resolving DNS Server Misconfiguration in Azure VM
-
 ## Issue 1: DNS Server Misconfiguration
 
 ### Issue Description:
@@ -23,10 +21,9 @@ Before Fix: Attempting to ping `google.com` results in a DNS resolution error (e
 
 #### Steps 2-7: Resolve the DNS Issue
 
-<p align="center">
-  <img src="https://s2.ezgif.com/tmp/ezgif-2-ffad981040.gif" alt="Fixing DNS Server Configuration in Azure"/>
-  <br>
-</p>
+[![Watch the video on Resolving DNS Issues](https://img.youtube.com/vi/niXR5XyqFR4/0.jpg)](https://www.youtube.com/watch?v=niXR5XyqFR4)
+
+*Click the image or [here](https://www.youtube.com/watch?v=niXR5XyqFR4) to watch a video explanation.*
 
 1. Open the Azure portal and navigate to your VM.
 2. Go to the **Networking** section and select the network interface associated with your VM.
