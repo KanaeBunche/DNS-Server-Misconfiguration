@@ -1,47 +1,45 @@
-<p align="center">
-<img src="https://i.ibb.co/gR1bdDr/DNS-FIX.jpg" alt="osTicket logo" width="70%"/>
-</p>
-<h2 align="center">Issue 1: DNS Server Misconfiguration</h2>
+# Resolving DNS Server Misconfiguration in Azure VM
 
-<h3>Issue Description:</h3>
+## Issue 1: DNS Server Misconfiguration
+
+### Issue Description:
 The VM cannot resolve domain names, leading to errors when attempting to access external websites (e.g., `ping google.com` fails).
 
-<h3>Cause:</h3>
+### Cause:
 This issue arises when the DNS server is misconfigured or unreachable, preventing domain name resolution.
-
-<h3>Steps to Fix:</h3>
-
-<h4>Step 1: Identify the DNS Issue</h4>
-<iframe width="554" height="360" src="https://www.youtube.com/embed/tG33Rr1cSc4" title="DNS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-  <i>Before Fix: Attempting to ping google.com results in a DNS resolution error (e.g., "Ping request could not find host google.com").</i>
-</p>
 
 ---
 
-<h4>Steps 2-7: Resolve the DNS Issue</h4>
+### Steps to Fix
+
+#### Step 1: Identify the DNS Issue
+Before Fix: Attempting to ping `google.com` results in a DNS resolution error (e.g., "Ping request could not find host google.com").
+
+[![Watch the video on DNS Issues](https://img.youtube.com/vi/tG33Rr1cSc4/0.jpg)](https://www.youtube.com/watch?v=tG33Rr1cSc4)
+
+*Click the image or [here](https://www.youtube.com/watch?v=tG33Rr1cSc4) to watch a video explanation.*
+
+---
+
+#### Steps 2-7: Resolve the DNS Issue
+
 <p align="center">
   <img src="https://s2.ezgif.com/tmp/ezgif-2-ffad981040.gif" alt="Fixing DNS Server Configuration in Azure"/>
   <br>
 </p>
-<ol>
-  <li>Open the Azure portal and navigate to your VM.</li>
-  <li>Go to the <b>Networking</b> section and select the network interface associated with your VM.</li>
-  <li>Check and configure the DNS servers:
-    <ul>
-      <li>Set to Azure Default DNS.</li>
-    </ul>
-  </li>
-  <li>Save the changes and restart the VM.</li>
-  <li>Verify the fix by:
-    <ul>
-      <li>Pinging google.com successfully from the terminal.</li>
-      <li>Accessing external websites via a browser.</li>
-    </ul>
-  </li>
-</ol>
-<i>After the fix: The DNS resolution and browser access are successful.</i>
+
+1. Open the Azure portal and navigate to your VM.
+2. Go to the **Networking** section and select the network interface associated with your VM.
+3. Check and configure the DNS servers:
+   - Set to Azure Default DNS.
+4. Save the changes and restart the VM.
+5. Verify the fix by:
+   - Pinging `google.com` successfully from the terminal.
+   - Accessing external websites via a browser.
+
+After the fix: The DNS resolution and browser access are successful.
 
 ---
 
-<h3>Conclusion:</h3>
+### Conclusion:
 This process resolves the DNS misconfiguration, allowing the VM to correctly resolve domain names and access external websites, such as Google.
