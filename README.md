@@ -15,7 +15,7 @@ Before Fix: Attempting to ping `google.com` results in a DNS resolution error (e
 
 [![Watch the video on DNS Issues](https://img.youtube.com/vi/tG33Rr1cSc4/0.jpg)](https://www.youtube.com/watch?v=tG33Rr1cSc4)
 
-*Click the image or [here](https://www.youtube.com/watch?v=tG33Rr1cSc4) to watch a video explanation.*
+*Click the image or [here](https://www.youtube.com/watch?v=tG33Rr1cSc4) to watch a video demo.*
 
 ---
 
@@ -23,7 +23,7 @@ Before Fix: Attempting to ping `google.com` results in a DNS resolution error (e
 
 [![Watch the video on Resolving DNS Issues](https://img.youtube.com/vi/niXR5XyqFR4/0.jpg)](https://www.youtube.com/watch?v=niXR5XyqFR4)
 
-*Click the image or [here](https://www.youtube.com/watch?v=niXR5XyqFR4) to watch a video explanation.*
+*Click the image or [here](https://www.youtube.com/watch?v=niXR5XyqFR4) to watch a video demo.*
 
 1. Open the Azure portal and navigate to your VM.
 2. Go to the **Networking** section and select the network interface associated with your VM.
