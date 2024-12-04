@@ -1,12 +1,12 @@
 
 
-## DNS Server Misconfiguration Resolution (1 point)
+## DNS Server Misconfiguration Resolution 
 
 ### Project Title: DNS Server Misconfiguration Fix for Azure VMs
 
 ---
 
-### Project Summary (2 points)
+### Project Summary 
 
 This project outlines the steps required to fix DNS server misconfigurations on a virtual machine (VM) hosted in Azure. The tutorial walks through identifying the issue, resolving it, and verifying the fix by testing DNS resolution.
 
@@ -16,7 +16,6 @@ This project outlines the steps required to fix DNS server misconfigurations on 
 
 ---
 
-### Media (Images and/or Video) (3 points)
 
 The project includes videos demonstrating both the identification of the DNS issue and the resolution process.
 
@@ -30,7 +29,7 @@ The project includes videos demonstrating both the identification of the DNS iss
 
 ---
 
-### Demonstration (4 points)
+### Demonstration 
 
 **Steps to Fix the DNS Issue:**
 
