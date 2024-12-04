@@ -2,7 +2,7 @@
 
 ## DNS Server Misconfiguration Resolution 
 
-### Project Title: DNS Server Misconfiguration Fix for Azure VMs
+### DNS Server Misconfiguration Fix for Azure VMs
 
 ---
 
